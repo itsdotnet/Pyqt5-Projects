@@ -1,1 +1,1 @@
-center
+self.msg.setIcon(self.msg.Information)
